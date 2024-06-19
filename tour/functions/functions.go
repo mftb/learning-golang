@@ -2,11 +2,11 @@ package main
 
 import "fmt"
 
-func add(x int, y int) int {
+func add(x, y int) int {
 	return x + y
 }
 
-func rec_add(x int, y int) int {
+func rec_add(x, y int) int {
 	if y > 0 {
 		return 1 + rec_add(x, y-1)
 	} else {

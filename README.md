@@ -7,6 +7,8 @@ Golang studies
 * So far, golang has several callbacks to C (the first serious programming language I learned). This is helping me pick it nicely.
 * I guess this makes sense as Ken Thompson was one of its designers.
 
+## Current studies
+* [A tour of Go](https://go.dev/tour/list)
 
 ## Future studies
 * [Tutorial: Developing a RESTful API with Go and Gin](https://go.dev/doc/tutorial/web-service-gin)
